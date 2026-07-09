@@ -1,0 +1,59 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual Environment
+venv/
+.venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# CodeBuddy / Qwen Code
+.qwen/
+.codebuddy/
+
+# Pytest
+.pytest_cache/
+
+# Results (generate on demand — large files)
+results/
+
+# Data (download separately — large files)
+data/
+media/
+
+# Model weights (regenerate with training)
+*.pth
+*.pt
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
