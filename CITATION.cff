@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Detecting Deepfake Video by A Multimodal Audio-Visual Framework with Temporal Inconsistencies"
+type: software
+authors:
+  - given-names: "MD RAKIBUL ISLAM"
+    family-names: "RAIHAN"
+    affiliation: "Northwestern Polytechnical University, School of Software Engineering"
+keywords:
+  - deepfake-detection
+  - multimodal
+  - efficientnet
+  - transformer
+  - mfcc
+  - attention-fusion
+  - grad-cam
+  - wilddeepfake
+license: MIT
+repository-code: "https://github.com/theraihanrakibb/DeepfakeAudioVisualTemporalDetector"
+version: "1.5.0"
+date-released: "2026-07-10"
