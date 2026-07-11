@@ -1,5 +1,16 @@
 # Detecting Deepfake Video by A Multimodal Audio-Visual Framework with Temporal Inconsistencies
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Thesis-NWPU-blue" alt="NWPU Thesis"/>
+  <img src="https://img.shields.io/github/license/theraihanrakibb/DeepfakeAudioVisualTemporalDetector" alt="License"/>
+  <img src="https://img.shields.io/github/stars/theraihanrakibb/DeepfakeAudioVisualTemporalDetector" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/theraihanrakibb/DeepfakeAudioVisualTemporalDetector" alt="Forks"/>
+  <img src="https://img.shields.io/github/last-commit/theraihanrakibb/DeepfakeAudioVisualTemporalDetector" alt="Last Commit"/>
+  <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
+  <img src="https://img.shields.io/badge/Dataset-WildDeepfake-orange" alt="WildDeepfake"/>
+</p>
+
+
 ## Overview
 
 A research-grade deepfake detection framework combining visual (spatial + FFT frequency), audio (MFCC), and temporal (Transformer) features with attention-based fusion. Trained and evaluated on the WildDeepfake dataset — real deepfake videos sourced from the internet.
@@ -375,3 +386,19 @@ python src/train.py --batch_size 2 --data_dir data/wilddeepfake
 ## License
 
 MIT License — see LICENSE file for details.
+
+## Citation
+
+If you use this framework, please cite:
+
+```bibtex
+@mastersthesis{raihan2026deepfake,
+  title  = {Detecting Deepfake Video by A Multimodal Audio-Visual Framework with Temporal Inconsistencies},
+  author = {Raihan, Md Rakibul Islam},
+  school = {Northwestern Polytechnical University},
+  year   = {2026},
+  type   = {M.Eng. Thesis}
+}
+```
+
+A machine-readable `CITATION.cff` is also provided in this repository.
