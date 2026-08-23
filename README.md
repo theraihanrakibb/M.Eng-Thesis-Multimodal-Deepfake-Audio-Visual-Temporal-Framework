@@ -2,10 +2,10 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Thesis-NWPU-blue" alt="NWPU Thesis"/>
-  <img src="https://img.shields.io/github/license/theraihanrakibb/DeepfakeAudioVisualTemporalDetector" alt="License"/>
-  <img src="https://img.shields.io/github/stars/theraihanrakibb/DeepfakeAudioVisualTemporalDetector" alt="Stars"/>
-  <img src="https://img.shields.io/github/forks/theraihanrakibb/DeepfakeAudioVisualTemporalDetector" alt="Forks"/>
-  <img src="https://img.shields.io/github/last-commit/theraihanrakibb/DeepfakeAudioVisualTemporalDetector" alt="Last Commit"/>
+  <img src="https://img.shields.io/github/license/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework" alt="License"/>
+  <img src="https://img.shields.io/github/stars/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework" alt="Forks"/>
+  <img src="https://img.shields.io/github/last-commit/theraihanrakibb/M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework" alt="Last Commit"/>
   <img src="https://img.shields.io/badge/PyTorch-2.x-EE4C2C?logo=pytorch&logoColor=white" alt="PyTorch"/>
   <img src="https://img.shields.io/badge/Dataset-WildDeepfake-orange" alt="WildDeepfake"/>
 </p>
@@ -15,7 +15,11 @@
 
 A research-grade deepfake detection framework combining visual (spatial + FFT frequency), audio (MFCC), and temporal (Transformer) features with attention-based fusion. Trained and evaluated on the WildDeepfake dataset — real deepfake videos sourced from the internet.
 
-**Author:** MD RAKIBUL ISLAM RAIHAN  
+**Author:** MD RAKIBUL ISLAM RAIHAN — M.Eng. Software Engineering, Northwestern Polytechnical University (985/211), GPA 88/100 (Top 1%)
+- Email: raihanrakib.143@gmail.com
+- GitHub: [theraihanrakibb](https://github.com/theraihanrakibb)
+- Portfolio: [theraihanrakibb.github.io/Online-Portfolio](https://theraihanrakibb.github.io/Online-Portfolio/)
+
 **Supervisor:** ZHANG PENG  
 **University:** Northwestern Polytechnical University, School of Software Engineering
 
@@ -68,7 +72,7 @@ pytest tests/ -v
 
 ```bash
 git clone <repository-url>
-cd DeepfakeAudioVisualTemporalDetector
+cd M.Eng-Thesis-Multimodal-Deepfake-Audio-Visual-Temporal-Framework
 
 # Install PyTorch with CUDA
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
@@ -402,3 +406,11 @@ If you use this framework, please cite:
 ```
 
 A machine-readable `CITATION.cff` is also provided in this repository.
+
+---
+
+## Related Research
+
+- **B.Eng. Thesis:** [Design and Implementation of a Distributed Confidential Query Protocol for Spark](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) — Apache Spark + CKKS homomorphic encryption.
+- **NVFP4-DiT:** [4-bit Audio-Guided Video Diffusion Transformers](https://github.com/theraihanrakibb/NVFP4-DiT) (IEEE TNNLS, under review).
+- **Profile & Portfolio:** [@theraihanrakibb](https://github.com/theraihanrakibb) · [Online Portfolio](https://theraihanrakibb.github.io/Online-Portfolio/)
