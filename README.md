@@ -18,7 +18,7 @@ A research-grade deepfake detection framework combining visual (spatial + FFT fr
 **Author:** MD RAKIBUL ISLAM RAIHAN — M.Eng. Software Engineering, Northwestern Polytechnical University (985/211), GPA 88/100 (Top 1%)
 - Email: raihanrakib.143@gmail.com
 - GitHub: [theraihanrakibb](https://github.com/theraihanrakibb)
-- Portfolio: [theraihanrakibb.github.io/Online-Portfolio](https://theraihanrakibb.github.io/Online-Portfolio/)
+- Portfolio: [theraihanrakibb.github.io](https://theraihanrakibb.github.io/)
 
 **Supervisor:** ZHANG PENG  
 **University:** Northwestern Polytechnical University, School of Software Engineering
@@ -413,4 +413,4 @@ A machine-readable `CITATION.cff` is also provided in this repository.
 
 - **B.Eng. Thesis:** [Design and Implementation of a Distributed Confidential Query Protocol for Spark](https://github.com/theraihanrakibb/B.Eng-Thesis-Design-and-Implementation-of-a-Distributed-Confidential-Query-Protocol-for-Spark) — Apache Spark + CKKS homomorphic encryption.
 - **NVFP4-DiT:** [4-bit Audio-Guided Video Diffusion Transformers](https://github.com/theraihanrakibb/NVFP4-DiT) (IEEE TNNLS, under review).
-- **Profile & Portfolio:** [@theraihanrakibb](https://github.com/theraihanrakibb) · [Online Portfolio](https://theraihanrakibb.github.io/Online-Portfolio/)
+- **Profile & Portfolio:** [@theraihanrakibb](https://github.com/theraihanrakibb) · [Online Portfolio](https://theraihanrakibb.github.io/)
